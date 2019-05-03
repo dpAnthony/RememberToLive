@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+RememberToLive/Saved/Config/Windows/EditorPerProjectUserSettings\.ini
+
+RememberToLive/Saved/Logs/RememberToLive\.log
